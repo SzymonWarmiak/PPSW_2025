@@ -1,0 +1,16 @@
+Dependencies for Project 'TIMERY', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x51C81B7E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\keyboard.c)(0x67DF205F)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+I (C:\Users\szymo\Desktop\AGH\SEMESTR 2\PPSW\TIMERY WARMIAK\keyboard.h)(0x67EC4C99)
+F (.\led.c)(0x67EC4C9E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+I (C:\Users\szymo\Desktop\AGH\SEMESTR 2\PPSW\TIMERY WARMIAK\led.h)(0x67EC4C9E)
+F (.\main.c)(0x682C5BA6)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\szymo\Desktop\AGH\SEMESTR 2\PPSW\TIMERY WARMIAK\led.h)(0x67EC4C9E)
+I (C:\Users\szymo\Desktop\AGH\SEMESTR 2\PPSW\TIMERY WARMIAK\TIMER.h)(0x682B884C)
+F (.\keyboard.h)(0x67EC4C99)()
+F (.\led.h)(0x67EC4C9E)()
+F (.\timer.c)(0x682D9B1F)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+I (C:\Users\szymo\Desktop\AGH\SEMESTR 2\PPSW\TIMERY WARMIAK\timer.h)(0x682B884C)

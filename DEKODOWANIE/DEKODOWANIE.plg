@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\szymo\Desktop\AGH\SEMESTR 2\PPSW\DEKODOWANIE\DEKODOWANIE.uvproj
+Project File Date:  04/15/2025
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+linking...
+Program Size: Code=1328 RO-data=32 RW-data=40 ZI-data=1280  
+".\DEKODOWANIE.axf" - 0 Errors, 0 Warning(s).

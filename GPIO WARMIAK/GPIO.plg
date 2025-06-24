@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\szymo\Desktop\AGH\SEMESTR 2\PPSW\GPIO WARMIAK\GPIO.uvproj
+Project File Date:  03/14/2025
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=1328 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+".\GPIO.axf" - 0 Errors, 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=1304 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+".\GPIO.axf" - 0 Errors, 0 Warning(s).
