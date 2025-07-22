@@ -3,7 +3,7 @@ Projekty i ćwiczenia realizowane w ramach przedmiotu Podstawy Programowania Sys
 🧠 Zawartość repozytorium
 Przykłady pracy z rejestrami LPC2129
 
-Obsługa GPIO, timerów i przerwań
+Obsługa GPIO, timerów, przerwań, UART
 
 Niskopoziomowe programowanie w języku C
 
